@@ -2,15 +2,16 @@ title: Tim Schütz # Shown in header on pages with full_logo: true
 short_logo: TS. # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   Cultural Anthropologist.
-url: "https://timschuetz.github.io/personal" # Site base URL
+url: "timschuetz.org" # Site base URL
 
 author:
   name: Tim Schütz
+  email: tschuetz@uci.edu # Used for email icon on the top right
+  twitter: tmschtz # Twitter username, used for Twitter Card Analytics
   github: timschuetz/personal # GitHub username, used for GitHub icon on the top right
   linkedin: tim-schütz-0b6924127/ # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: tschuetz@uci.edu # Used for email icon on the top right
   homepage: https://timschuetz.org # This links to your name in post meta
-  twitter: tmschtz # Twitter username, used for Twitter Card Analytics 
+ 
 
 disqus_name: # Setting this will turn on Disqus comments
 g_track_id: # Google Analytics tracking ID (e.g. UA-000000-2), setting this will turn on Google Analytics
