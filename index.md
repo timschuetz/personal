@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title: Tim Schütz
+title:
 subtitle: 
 description:
 sitemap:
