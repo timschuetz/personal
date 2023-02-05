@@ -7,8 +7,6 @@ description:
 sitemap:
   priority: 1.0
 ---
-<p class="describe-text">University of California, Irvine</p>
-<br>
 
 I'm a PhD researcher in the Department of Anthropology at the University of California, Irvine. My research and teaching focus on ways data are mobilized for different purposes in different settings – across scientific fields, as evidence in legal cases, and as shared points of references in social movements, for example.
 
