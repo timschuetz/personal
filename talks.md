@@ -1,6 +1,11 @@
 ---
-layout: default
-title: "Talks"
+layout: page
+full_logo: true
+title:
+subtitle: 
+description:
+sitemap:
+priority: 1.0
 ---
 
 ##### Upcoming
