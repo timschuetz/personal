@@ -1,17 +1,6 @@
-- name: Project One # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
-  action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
-
 - name: Formosa Plastics Global Archive
   id: fpga
-  img_src: https://disaster-sts-network.org/sites/default/files/styles/panopoly_image_full/public/essay/images/formosa_plastics_archive_2022-5.png?itok=i5nBaNaR
+  img_src: https://disaster-sts-network.org/sites/default/files/styles/panopoly_image_full/public/essay/images/formosa_plastics_archive_2022-5.png
   description_less: Digital archive and workspace.
   description_more: >
     <p>The Formosa Plastics Global Archive supports a transnational network of people concerned about the operations of the Formosa Plastics Corporation, one of the world's largest petrochemical companies. The material includes public coverage of Formosa Plastics, as well as documentation collected by activists over many years of work.</p>
