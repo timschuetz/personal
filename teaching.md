@@ -1,6 +1,11 @@
 ---
-layout: default
-title: "Teaching"
+layout: page
+full_logo: true
+title:
+subtitle: 
+description:
+sitemap:
+priority: 1.0
 ---
 
 ##### Environmental Injustice
