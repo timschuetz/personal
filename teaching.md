@@ -1,6 +1,6 @@
 ---
 layout: page
-full_logo: true
+full_logo: false
 title:
 subtitle: 
 description:
