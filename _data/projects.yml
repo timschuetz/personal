@@ -1,6 +1,6 @@
 - name: Formosa Plastics Global Archive
   id: fpga
-  img_src: https://www.timschutz.org/fpga-banner.png
+  img_src: /fpga-banner.png
   description_less: Digital archive and workspace.
   description_more: >
     <p>The Formosa Plastics Global Archive supports a transnational network of people concerned about the operations of the Formosa Plastics Corporation, one of the world's largest petrochemical companies. The material includes public coverage of Formosa Plastics, as well as documentation collected by activists over many years of work.</p>
