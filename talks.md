@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: false
-title:
+title: Talks
 subtitle: 
 description:
 sitemap:
@@ -9,6 +9,8 @@ priority: 1.0
 ---
 
 ##### Upcoming
+
+In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. TU Wen-Ling, National Chengchi University Taipei, April 28.
 
 ---
 
