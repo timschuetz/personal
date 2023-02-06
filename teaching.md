@@ -1,8 +1,8 @@
 ---
 layout: page
 full_logo: false
-title:
-subtitle: 
+title: Teaching
+subtitle:
 description:
 sitemap:
 priority: 1.0
@@ -14,4 +14,8 @@ priority: 1.0
 &nbsp;
 ##### Archving for the Anthropocene
 In this course, students learn about the data and knowledge infrastructures needed to respond to the Anthropocene, including environmental right-to-know databases, community archives, museums and other cultural institutions. [Course Website](https://disaster-sts-network.org/content/archiving-anthropocene-2021/essay).
+\
+&nbsp;
+
+
 
