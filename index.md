@@ -1,7 +1,7 @@
 ---
 layout: page
 full_logo: true
-title:
+title: About
 subtitle: 
 description:
 sitemap:
